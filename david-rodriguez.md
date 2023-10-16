@@ -1,1 +1,1 @@
-Aprediendo ts y nodeJs
+Aprendiendo ts y nodeJs
